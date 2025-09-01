@@ -4,7 +4,7 @@
 email: a.kaygorodzev@yandex.ru  
 +7(905)853-68-06  
 01.03.1977 г.  
-
+![alt text](image.png)
 
 Я учусь в Нетологии  
 Мечтаю поменять профессию!
